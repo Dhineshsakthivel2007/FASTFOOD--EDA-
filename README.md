@@ -38,12 +38,14 @@ Arizona	West	81
 Arkansas	South	45
 California	West	52
 🎯 What you’ll see in the notebook
-     
+
 📊 Region-wise spending comparisons (South vs West, etc.)
-        ![Average](averagefoodregion.png)
+    ![Average](averagefoodregion.png)
 🏆 Top spenders and low spenders (state-level)
 
 📦 Engineered features like “Above/Below Average Spending”
 
 🔥 Visuals: bar charts
-![Average](averagefoodregion.png)
+📝 Why this project?
+This isn’t just about fast food 🍟.
+It’s about learning data storytelling — how to take a plain dataset, clean it, explore it, and pull out insights that people can understand.
