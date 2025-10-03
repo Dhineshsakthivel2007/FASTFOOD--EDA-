@@ -46,6 +46,7 @@ California	West	52
 📦 Engineered features like “Above/Below Average Spending”
 
 🔥 Visuals: bar charts
+
 📝 Why this project?
 This isn’t just about fast food 🍟.
 It’s about learning data storytelling — how to take a plain dataset, clean it, explore it, and pull out insights that people can understand.
